@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif" width="600px" height="400px"/>
+<img src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif" width="600px"/>
 </div>
 <h1 align="center">Hi 👋, I'm Mohammad Wahyu Ardiansyah</h1>
-<h3 align="center">Undergraduate student from the Computer Science department who has an interest in the field of Web Development. Armed with cloud computing experience in the Bangkit Academy 2023 program and being involved in web programming projects, as well as having several relevant course certifications, I am interested in continuing to develop my soft skills and hard skills to become a Web Developer.</h3>
+<h3 align="center">I am a Computer Science student with expertise in cloud computing and web programming, coupled with strong management skills. I am highly motivated to evolve as a Web Developer.</h3>
 
 - 🌱 I’m currently learning **React.js and Vue.js**
 
